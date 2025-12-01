@@ -234,5 +234,5 @@ MIT License
 ## Contributors
 
 - Elina Huang
-- Jasmin (Teammate)
-- Xue (Teammate)
+- Jasmine Cai
+- Yulin Xue
