@@ -1,4 +1,4 @@
-#!/Users/elinahuang/Desktop/Cloud Security/medtech-compliance-checker/venv/bin/python3
+#!/Users/elinahuang/Desktop/Cloud Security/medtech-compliance-checker/venv/bin/python3.13
 
 import sys
 import json
