@@ -2,6 +2,10 @@
 
 Automated AWS security compliance checking tool for MedTech's cloud infrastructure. This Lambda-based solution performs comprehensive security audits across S3, IAM, and EC2/Network services, with multi-region scanning and automated email notifications.
 
+## Presentaion Recording
+Link: https://cmu.zoom.us/rec/share/54nM74wvG-Gprh3mZ9jQql7EuGw2qAAJqi3FZO8Cx28VacJA-Fqvf3jGZ1Tm3zX1.vF9jntZ0Ups_bMdw
+Password: ^08dq@RQ
+
 ## Features
 
 - **Multi-Region Scanning**: Scans US AWS regions (us-east-1, us-east-2, us-west-1, us-west-2)
