@@ -4,7 +4,7 @@ Automated AWS security compliance checking tool for MedTech's cloud infrastructu
 
 ## Presentaion Recording
 Link: https://cmu.zoom.us/rec/share/54nM74wvG-Gprh3mZ9jQql7EuGw2qAAJqi3FZO8Cx28VacJA-Fqvf3jGZ1Tm3zX1.vF9jntZ0Ups_bMdw
-Password: ^08dq@RQ
+(Password: ^08dq@RQ)
 
 ## Features
 
